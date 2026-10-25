@@ -15,7 +15,7 @@ Backroom Protocol is a first-person survival maze game inspired by the Backrooms
 - **Left Mouse Button** — Shoot
 
 ## Goal
-Survive all three levels and defeat the enemies. Complete the game to see **"You're free"** — or get consumed.
+Survive all three levels and defeat the enemies. Complete the game, or you'll get consumed.
 
 ## Documentation
 For the full game description in Hungarian, see [Backroom Protocol Documentation.pdf](Backroom%20Protocol%20documentation.pdf).
